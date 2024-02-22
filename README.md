@@ -7,5 +7,6 @@ Bootcamp Frontend Infinite Learning
 ------------------------------------------------
 
 
-| Nama | 
-| Muhammad Reza |
+| Nama                       |
+|----------------------------| 
+| Muhammad Reza Putra Gumilar|
